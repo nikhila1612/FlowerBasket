@@ -1,0 +1,29 @@
+.pookadanav{
+    background-color: black;
+    margin-bottom: 70px;
+
+
+}
+.pookadanav button{
+ background-color: rgba(151, 144, 144, 0.774);
+
+}
+.flowerfooter{
+ background-color: rgba(151, 144, 144, 0.774);
+ height: 70px;
+ margin-top: 100px; 
+
+}
+.flowerfooter h3{
+
+  color: rgb(48, 43, 43);
+  padding-top: 20px;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0px 1px 2px rgb(99, 94, 94);
+   
+   
+}
+
+
+
